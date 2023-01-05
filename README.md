@@ -6,4 +6,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=andwati&theme=city-lights)](https://git.io/streak-stats)
 
-![Stackoverflow](https://stackoverflow-card.vercel.app/?userID=12246264&theme=tomorrownight)
