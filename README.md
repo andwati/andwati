@@ -1,5 +1,4 @@
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=andwati&theme=city_lights)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andwati&show_icons=true&theme=transparent)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
