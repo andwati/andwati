@@ -1,4 +1,11 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andwati&show_icons=true&theme=transparent)
+# Github Stats
+![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=andwati&show_icons=true&theme=transparent)
+
+# Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&hide=html,css,xslt,dockerfile,scss,makefile&langs_count=4&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+# Wakatime Weekly Stats
+[![Ian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andwati&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
