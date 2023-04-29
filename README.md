@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&hide=html,css,xslt,dockerfile,scss,makefile&langs_count=4&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats&size_weight=0.5&count_weight=0.5)
 
 # Wakatime Weekly Stats
-[![Ian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andati&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Ian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andwati&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
