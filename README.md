@@ -4,6 +4,9 @@
 # Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&hide=html,css,xslt,dockerfile,scss,makefile&langs_count=4&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats&size_weight=0.5&count_weight=0.5)
 
+# Roadmap.sh
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/644406e7e27257737494b9e5?variant=dark)](https://roadmap.sh)
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Subresource Integrity](https://andwati.com/post/2023/april/subresource-integrity/)
