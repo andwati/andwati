@@ -12,3 +12,5 @@
 - [Integrating Netlify CMS](https://andwati.com/posts/integrating-netlify/)
 - [Django Secret Key Tutorial](https://andwati.com/posts/generate-django-secret-key/)
 <!-- BLOG-POST-LIST:END -->
+
+[![](https://visitcount.itsvg.in/api?id=andwati&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
