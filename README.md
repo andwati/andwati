@@ -6,11 +6,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What say you?](https://andwati.com/posts/utterances-comments/)
+- [A Fresh Coat Of Paint](https://andwati.com/posts/a-fresh-coat-of-paint/)
 - [Subresource Integrity](https://andwati.com/posts/subresource-integrity/)
 - [Install PostgreSQL 15 on Arch | Manjaro | Garuda Linux](https://andwati.com/posts/install-postgresql-15-on-arch-manjaro-garuda-linux/)
 - [Semantic Versioning&lpar;SemVer&rpar; and Conventional  Commits](https://andwati.com/posts/semantic-version-and-conventional-commits/)
-- [Integrating Netlify CMS](https://andwati.com/posts/integrating-netlify/)
-- [Django Secret Key Tutorial](https://andwati.com/posts/generate-django-secret-key/)
 <!-- BLOG-POST-LIST:END -->
 
 [![](https://visitcount.itsvg.in/api?id=andwati&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
