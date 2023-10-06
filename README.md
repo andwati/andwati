@@ -1,6 +1,6 @@
 # Github Stats
 ![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=andwati&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true)
-# Blog posts
+# Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Setting up Obsidian sync in Windows](https://andwati.com/posts/obsidian-sync/)
 - [What say you?](https://andwati.com/posts/utterances-comments/)
