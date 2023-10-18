@@ -1,6 +1,6 @@
 Hi there! 👋
 # Github Stats
-[![Ian's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andwati&theme=transparent&hide_border=false&stroke=1C2231)](https://github.com/ekaranjaa)
+[![Ian's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andwati&theme=transparent&hide_border=false&stroke=1C2231)](https://github.com/andwati)
 
 ![](https://github-readme-stats.vercel.app/api?username=andwati&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true)
 # Latest Blog posts
