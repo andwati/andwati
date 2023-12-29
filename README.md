@@ -9,7 +9,6 @@
 # Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Setting up Obsidian sync in Windows](https://andwati.github.io/posts/obsidian-sync/)
 - [What say you?](https://andwati.github.io/posts/utterances-comments/)
 - [A Fresh Coat Of Paint](https://andwati.github.io/posts/a-fresh-coat-of-paint/)
