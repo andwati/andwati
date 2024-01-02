@@ -16,6 +16,4 @@
 - [Install PostgreSQL 15 on Arch | Manjaro | Garuda Linux](https://andwati.github.io/posts/install-postgresql-15-on-arch-manjaro-garuda-linux/)
 <!-- BLOG-POST-LIST:END -->
 
-[![](https://visitcount.itsvg.in/api?id=andwati&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
-
 [![wakatime](https://wakatime.com/badge/user/7f0420c2-50ee-46bc-9902-4c6386c5dc5e.svg)](https://wakatime.com/@7f0420c2-50ee-46bc-9902-4c6386c5dc5e)
