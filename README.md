@@ -14,8 +14,6 @@
 - [Install PostgreSQL 15 on Arch | Manjaro | Garuda Linux](https://andwati.github.io/posts/install-postgresql-15-on-arch-manjaro-garuda-linux/)
 <!-- BLOG-POST-LIST:END -->
 
-> I thought of another moral, more down to earth and concrete, and I believe that every militant chemist can confirm it: that one must distrust the almost-the-same (sodium is almost the same as potassium, but with sodium nothing would have happened), the practically identical, the approximate, all surrogates, and all patchwork. The differences can be small, but they can lead to radically different consequences, like a railroad's switch points: the chemist's trade consists in good part of being aware of these differences, knowing them close up and foreseeing their effects. And not only the chemist's trade. —Primo Levi
-
 [![](https://visitcount.itsvg.in/api?id=andwati&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 [![wakatime](https://wakatime.com/badge/user/7f0420c2-50ee-46bc-9902-4c6386c5dc5e.svg)](https://wakatime.com/@7f0420c2-50ee-46bc-9902-4c6386c5dc5e)
