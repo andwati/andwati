@@ -2,7 +2,7 @@
 
 [![Ian's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andwati&theme=transparent&hide_border=false&stroke=1C2231&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/andwati)
 
-![](https://github-readme-stats.vercel.app/api?username=andwati&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![](https://github-readme-stats.vercel.app/api?username=andwati&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true)
 
 # Latest Blog posts
 
