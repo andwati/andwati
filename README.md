@@ -1,4 +1,4 @@
-## Glad to see you here <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
+## Glad to see you here <img align="center" alt="Android" width="55" src="./assets/android.webp"/>
 
 # Github Stats
 
