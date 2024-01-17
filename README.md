@@ -9,11 +9,11 @@
 # Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up Obsidian sync in Windows](https://andwati.github.io/posts/obsidian-sync/)
-- [What say you?](https://andwati.github.io/posts/utterances-comments/)
-- [A Fresh Coat Of Paint](https://andwati.github.io/posts/a-fresh-coat-of-paint/)
-- [Subresource Integrity](https://andwati.github.io/posts/subresource-integrity/)
-- [Install PostgreSQL 15 on Arch | Manjaro | Garuda Linux](https://andwati.github.io/posts/install-postgresql-15-on-arch-manjaro-garuda-linux/)
+- [Export default and module.exports in Javascript](https://andwati.github.io/blog/javascript-exporting-modules/)
+- [Setting up Obsidian sync in Windows](https://andwati.github.io/blog/obsidian-sync/)
+- [What say you?](https://andwati.github.io/blog/utterances-comments/)
+- [A Fresh Coat Of Paint](https://andwati.github.io/blog/a-fresh-coat-of-paint/)
+- [Subresource Integrity](https://andwati.github.io/blog/subresource-integrity/)
 <!-- BLOG-POST-LIST:END -->
 
 [![wakatime](https://wakatime.com/badge/user/7f0420c2-50ee-46bc-9902-4c6386c5dc5e.svg)](https://wakatime.com/@7f0420c2-50ee-46bc-9902-4c6386c5dc5e)
