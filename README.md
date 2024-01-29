@@ -13,5 +13,3 @@
 - [A Fresh Coat Of Paint](https://andwati.github.io/blog/a-fresh-coat-of-paint/)
 - [Subresource Integrity](https://andwati.github.io/blog/subresource-integrity/)
 <!-- BLOG-POST-LIST:END -->
-
-[![wakatime](https://wakatime.com/badge/user/7f0420c2-50ee-46bc-9902-4c6386c5dc5e.svg)](https://wakatime.com/@7f0420c2-50ee-46bc-9902-4c6386c5dc5e)
