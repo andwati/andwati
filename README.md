@@ -7,9 +7,9 @@
 # Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Export default and module.exports in Javascript](https://andwati.github.io/blog/javascript-exporting-modules/)
-- [Setting up Obsidian sync in Windows](https://andwati.github.io/blog/obsidian-sync/)
-- [What say you?](https://andwati.github.io/blog/utterances-comments/)
-- [A Fresh Coat Of Paint](https://andwati.github.io/blog/a-fresh-coat-of-paint/)
-- [Subresource Integrity](https://andwati.github.io/blog/subresource-integrity/)
+- [Export default and module.exports in Javascript](https://andwati.github.io/posts/javascript-exporting-modules/)
+- [Setting up Obsidian sync in Windows](https://andwati.github.io/posts/obsidian-sync/)
+- [What say you?](https://andwati.github.io/posts/utterances-comments/)
+- [A Fresh Coat Of Paint](https://andwati.github.io/posts/a-fresh-coat-of-paint/)
+- [Subresource Integrity](https://andwati.github.io/posts/subresource-integrity/)
 <!-- BLOG-POST-LIST:END -->
