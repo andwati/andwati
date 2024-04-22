@@ -4,6 +4,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=andwati&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true)
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=andwati)](https://github.com/KnlnKS/leetcode-stats)
+
 # Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
