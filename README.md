@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&hide=javascript,html,css,scss&theme=transparent&layout=compact)](https://github.com/andwati/andwati)
 
-[![Ian's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andwati&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ian's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andwati&theme=transparent&layout=compact)](https://github.com/andwati/andwati)
 </details>
 
 <details>
