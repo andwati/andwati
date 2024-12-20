@@ -5,7 +5,7 @@ I sometimes pretend to contribute to open source here.
 - 🔭 I'm currently tinkering on random Rust and Go hobby projects.
 - 💬 Ask me about: 🐍 Python, 🦀 Rust, Go, 💢 anime, 🎮 video games, 🥃 cocktails, really anything... 
 - 📫 How to reach me: andwatiian@gmail.com
-- 🐘 Find me on Twitter: <a rel="me" href="https://x.com/andwati_">@andwati_</a>
+- 🐦 Find me on Twitter: <a rel="me" href="https://x.com/andwati_">@andwati_</a>
 
 <h3>Streak</h3>
 <p>
