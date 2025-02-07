@@ -6,3 +6,18 @@ I sometimes pretend to contribute to open source here.
 - 💬 Ask me about: 🐍 Python, 🦀 Rust, Go, Kotlin
 - 📫 How to reach me: andwatiian@gmail.com
 - 🐦 Find me on Twitter: <a rel="me" href="https://x.com/andwati_">@andwati_</a>
+
+
+<h3>Streak</h3>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andwati&amp;theme=transparent" alt="GitHub Streaks" height="200" width="49%" />
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=andwati&theme=transparent&hide_border=false&include_all_commits=false&count_private=true" alt="readme stats" height="200"  width="49%">
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&hide=html,jupyter%20notebook,css,scss&theme=transparent&layout=compact)](https://github.com/andwati/andwati)
+
+[![Ian's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andwati&theme=transparent&layout=compact)](https://github.com/andwati/andwati)
+
+
+[![](https://visitcount.itsvg.in/api?id=andwati&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
