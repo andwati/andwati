@@ -14,5 +14,9 @@ I sometimes pretend to contribute to open source here.
   <img src="https://github-readme-stats.vercel.app/api?username=andwati&theme=transparent&hide_border=false&include_all_commits=false&count_private=true" alt="readme stats" height="200"  width="49%">
 </p>
 
+# latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 [![](https://visitcount.itsvg.in/api?id=andwati&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
