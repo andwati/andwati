@@ -22,6 +22,3 @@ I sometimes pretend to contribute to open source here.
 - [A Fresh Coat Of Paint](https://andwati.github.io/posts/a-fresh-coat-of-paint/)
 - [Subresource Integrity](https://andwati.github.io/posts/subresource-integrity/)
 <!-- BLOG-POST-LIST:END -->
-
-
-[![](https://visitcount.itsvg.in/api?id=andwati&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
