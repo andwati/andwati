@@ -1,12 +1,6 @@
 # hello :wave: Glad to see you here <img align="center" alt="Android" width="55" src="./assets/android.webp"/>
 I sometimes pretend to contribute to open source here.
 
-- 🔭 I'm currently tinkering on random Rust and Go hobby projects.
-- 💬 Ask me about: 🐍 Python, Typescript,🦀 Rust, Go, 💢 anime, 🎮 video games, 🥃 cocktails, really anything... 
-- 📫 How to reach me: andwatiian@gmail.com
-- 🐦 Find me on Twitter: <a rel="me" href="https://x.com/andwati_">@andwati_</a>
-
-
 <h3>Streak</h3>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andwati&amp;theme=transparent" alt="GitHub Streaks" height="200" width="49%" />
