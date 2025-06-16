@@ -7,6 +7,11 @@ I sometimes pretend to contribute to open source here.
   <img src="https://github-readme-stats.vercel.app/api?username=andwati&theme=transparent&hide_border=false&include_all_commits=false&count_private=true" alt="readme stats" height="200"  width="49%">
 </p>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&hide=shell,css,html,scss,Dockerfile&layout=donut&theme=transparent" alt="GitHub language stats" height="200" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andwati&theme=transparent" alt="wakatime stats" height="200"  width="49%">
+</p>
+
 # latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [cognitive inertia](https://andwati.github.io/posts/inertia/)
