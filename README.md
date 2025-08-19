@@ -16,11 +16,11 @@ I sometimes pretend to contribute to open source here.
 
 # latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ScriptCTF 2025 Writeup](https://andwati.xyz/posts/scriptctf2025/)
 - [mmuctf 2025 writeup](https://andwati.xyz/posts/mmuctf2025/)
 - [cognitive inertia](https://andwati.xyz/posts/inertia/)
 - [Export default and module.exports in Javascript](https://andwati.xyz/posts/javascript-exporting-modules/)
 - [Setting up Obsidian sync in Windows](https://andwati.xyz/posts/obsidian-sync/)
-- [What say you?](https://andwati.xyz/posts/utterances-comments/)
 <!-- BLOG-POST-LIST:END -->
 
 
