@@ -9,7 +9,7 @@ I sometimes pretend to contribute to open source here.
 
 <p>
   <img src="https://github-readme-stats-andwati.vercel.app/api/top-langs/?username=andwati&hide=shell,css,html,scss,Dockerfile,jupyter%20notebook,Powershell,Ruby&layout=donut&theme=transparent" alt="GitHub language stats" height="200" width="49%" />
-  <img src="https://github-readme-stats-andwati.vercel.app/api/wakatime?username=andwati&theme=transparent" alt="wakatime stats" height="200"  width="49%">
+  <img src="https://github-readme-stats-andwati.vercel.app/api/wakatime?username=andwati&theme=transparent&layout=compact&langs_count=10" alt="wakatime stats" height="200"  width="49%">
 </p>
 
 [![wakatime](https://wakatime.com/badge/user/7f0420c2-50ee-46bc-9902-4c6386c5dc5e.svg)](https://wakatime.com/@7f0420c2-50ee-46bc-9902-4c6386c5dc5e)
