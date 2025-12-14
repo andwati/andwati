@@ -1,22 +1,39 @@
-# hello :wave: Glad to see you here <img align="center" alt="Android" width="55" src="./assets/android.webp"/>
-I sometimes pretend to contribute to open source here.
 
-<h3>Streak</h3>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andwati&amp;theme=transparent" alt="GitHub Streaks" height="200" width="49%" />
-  <img src="https://github-readme-stats-andwati.vercel.app/api?username=andwati&theme=transparent&hide_border=false&include_all_commits=false&count_private=true" alt="readme stats" height="200"  width="49%">
-</p>
-<p>
-  <img src="https://github-readme-stats-andwati.vercel.app/api/top-langs/?username=andwati&hide=shell,css,html,scss,Dockerfile,jupyter%20notebook,Powershell,Ruby&layout=donut&theme=transparent" alt="GitHub language stats" height="200" width="49%" />
-  <img src="https://github-readme-stats-andwati.vercel.app/api/wakatime?username=andwati&theme=transparent&layout=compact&langs_count=10" alt="wakatime stats" height="200"  width="49%">
-</p>
+# Ian | Systems & Backend Software Engineer 
+[![Email](https://img.shields.io/badge/Email-andwatiian%40gmail.com-blue)](mailto:andwatiian@gmail.com)
 
-[![wakatime](https://wakatime.com/badge/user/7f0420c2-50ee-46bc-9902-4c6386c5dc5e.svg)](https://wakatime.com/@7f0420c2-50ee-46bc-9902-4c6386c5dc5e)
-# latest blog posts
-<!-- BLOG-POST-LIST:START -->
-- [ScriptCTF 2025 Writeup](https://andwati.xyz/posts/scriptctf2025/)
-- [mmuctf 2025 writeup](https://andwati.xyz/posts/mmuctf2025/)
-- [cognitive inertia](https://andwati.xyz/posts/inertia/)
-- [Export default and module.exports in Javascript](https://andwati.xyz/posts/javascript-exporting-modules/)
-- [Setting up Obsidian sync in Windows](https://andwati.xyz/posts/obsidian-sync/)
-<!-- BLOG-POST-LIST:END -->
+---
+
+### About Me 
+Systems and Backend Software Engineer with 3+ years of experience building high-performance, scalable software solutions. I specialize in creating robust backend systems, real-time platforms, and cloud infrastructure.
+
+### Technical Expertise 
+
+**Systems Programming**  
+- Low-level development (Rust, C, C++)  
+- Concurrent and parallel programming  
+- Memory safety and zero-copy optimizations  
+- Network protocol implementation  
+
+---
+
+### Collaboration Interests
+
+I'm open to working on:  
+- High-performance systems  
+- Distributed systems and microservices  
+- Database engines and storage systems  
+- Cloud infrastructure and DevOps tooling  
+- Operating Systems
+
+---
+
+### Current Focus 
+
+Building efficient, scalable backend systems that solve real business problems. Focused on performance-critical applications and cloud-native services. Always looking for the next optimization opportunity and clean architecture patterns.
+
+---
+
+### Connect With Me 
+Email: andwatiian@gmail.com 
+---
