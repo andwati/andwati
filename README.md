@@ -4,7 +4,7 @@
 ---
 
 ### About Me 
-Systems and Backend Software Engineer with 3+ years of experience building high-performance, scalable software solutions. I specialize in creating robust backend systems, real-time platforms, and cloud infrastructure.
+Systems and Backend Software Engineer with 5+ years of experience building high-performance, scalable software solutions. I specialize in creating robust backend systems, real-time platforms, and cloud infrastructure.
 
 ### Technical Expertise 
 
