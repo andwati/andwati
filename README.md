@@ -1,3 +1,2 @@
-![](./assets/android.webp)
-
-<!-- <a href="http://www.github.com/andwati"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andwati&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
+# Github Stats
+[![Ian's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andwati&theme=transparent&hide_border=false&stroke=1C2231&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/andwati)
